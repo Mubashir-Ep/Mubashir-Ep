@@ -1,4 +1,4 @@
-![My card name](https://cardivo.vercel.app/api?name=Mubashir-Ep&image=https://avatars.githubusercontent.com/u/181054597?v=4&backgroundColor=%23e4f2f6&instagram=_abhi_nav_11&github=Abhinavb11&)
+![My card name](https://cardivo.vercel.app/api?name=Mubashir-Ep&image=nstagram=_abhi_nav_11&github=Abhinavb11&)
 </p>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Abhinavb11&label=Visitors%20count&color=10d9c3&style=plastic" alt="Abhinavb11" /> </p>
