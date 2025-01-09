@@ -1,4 +1,4 @@
-![My card name](https://cardivo.vercel.app/api?name=MUBASHIR-EP%20&description=Hi,%20Welcome%20To%20My%20Profile&image=https://avatars.githubusercontent.com/u/181055457?s=400&u=ef71753d5f95494abe8c0a5c4aa2927b930e245c&v=4/u/181054597?v=4&backgroundColor=%23e4f2f6&instagram=_-mubasssh___&github=Mubashir-Ep&)
+![My card name](https://cardivo.vercel.app/api?name=MUBASHIR-EP%20&description=Hi,%20Welcome%20To%20My%20Profile&image=https://avatars.githubusercontent.com/u/181055457?s=400&u=ef71753d5f95494abe8c0a5c4aa2927b930e245c&v=4/u/181054597?v=4&backgroundColor=%23e4f2f6&instagram=_mubasssh___&github=Mubashir-Ep&)
 </p>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Mubashir-Ep&label=Visitors%20count&color=10d9c3&style=plastic" alt="Mubashir-Ep" /> </p>
