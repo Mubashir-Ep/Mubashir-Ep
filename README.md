@@ -35,16 +35,4 @@
 
 <br/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
 
-<div align="center">
-  <img width="390" src="https://streak-stats.demolab.com/?user=Mubashir-Ep&theme=react&hide_border=true&border_radius=10" alt="GitHub Streak Stats" />
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Mubashir-Ep&count_private=true&show_icons=true&theme=react&rank_icon=github&hide_border=true&border_radius=10" alt="GitHub Stats" />
-  <br/><br/>
-  <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mubashir-Ep&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&hide_border=true&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" />
-</div>
-
-<br/><br/>
-
-<hr/>
