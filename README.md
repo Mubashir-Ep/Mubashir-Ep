@@ -6,17 +6,12 @@
 
 <br>
 
-<div align="center">
-  <a href="mailto:ekmmubashir@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail"/>
-  </a>
-  <a href="https://wa.me/8111936574" target="_blank">
-    <img src="https://img.shields.io/badge/whatsapp-008000?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-  <a href="https://www.instagram.com/_mubasssh___/" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</div>
+
+
+
+🌱 I’m currently learning **Machine Learning**
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
@@ -34,5 +29,17 @@
 </div>
 
 <br/>
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mubashir-ep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_mubasssh___/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anii_akhil" height="30" width="40" /></a>
+
+</p>
+<br>
+
+
+------
 
 
