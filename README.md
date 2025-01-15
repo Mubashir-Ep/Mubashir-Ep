@@ -1,10 +1,10 @@
-![My card name](https://cardivo.vercel.app/api?name=MUBASHIR-EP%20&description=Hi,%20Welcome%20To%20My%20Profile&image=https://avatars.githubusercontent.com/u/181055457?s=400&u=ef71753d5f95494abe8c0a5c4aa2927b930e245c&v=4&backgroundColor=%23e4f2f6&instagram=_mubasssh___&github=Mubashir-Ep)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mubashir-Ep&label=Visitors%20count&color=10d9c3&style=plastic" alt="Mubashir-Ep" />
-</p>
+![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
 
-<br>
+
+ <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Mubashir! 
+
+<br /> 
 
 
 
