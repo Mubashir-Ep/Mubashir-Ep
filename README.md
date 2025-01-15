@@ -13,7 +13,7 @@
   <a href="https://wa.me/8111936574" target="_blank">
     <img src="https://img.shields.io/badge/whatsapp-008000?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
-  <a href="https://instagram.com/_mubasssh__" target="_blank">
+  <a href="https://www.instagram.com/_mubasssh___/" target="_blank">
     <img src="https://img.shields.io/badge/instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </div>
