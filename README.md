@@ -71,8 +71,7 @@
 ----
 
 <p align="left">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Mubashir-Ep/Mubashir-Ep/output/github-contribution-grid-snake.svg" />
 </p>
 
 <!-- FOOTER -->
