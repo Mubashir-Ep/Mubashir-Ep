@@ -70,9 +70,7 @@
 
 ----
 
-<p align="left">
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Mubashir-Ep/Mubashir-Ep/output/github-contribution-grid-snake.svg" />
-</p>
+<p align="center"> <img src="https://profile-counter.glitch.me/{vibrantfix}/count.svg" alt="vibrantfix" /> </p>
 
 <!-- FOOTER -->
 <div align="left" width="100">
