@@ -57,10 +57,12 @@
 <a href="https://www.instagram.com/_mubasssh___/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Mubashir-Ep" height="30" width="40" /></a>
 <a href="mailto:ekmmubashir@gmail.com" target="blank">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="30" width="40" />
-</a>
+
 
 <a href="https://github.com/Mubashir-Ep" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+<a href="https://discord.gg/Cr69HyAc" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
+
 </a>
 
 
