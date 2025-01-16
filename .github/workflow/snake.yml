@@ -1,0 +1,30 @@
+name: Generate Snake Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs at midnight every day
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  generate-snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+      - name: Push Snake Animation to the README
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: gh-pages # Target branch to push the snake.svg
+          publish_dir: ./dist
+          force_orphan: true # Force create the branch if it doesn’t exist
+
+
+
+
+      - name: Push Snake Animation to the README
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+
