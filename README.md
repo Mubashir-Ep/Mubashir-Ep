@@ -70,7 +70,6 @@
 
 ----
 
-<p align="center"> <img src="https://profile-counter.glitch.me/{vibrantfix}/count.svg" alt="vibrantfix" /> </p>
 
 <!-- FOOTER -->
 <div align="left" width="100">
