@@ -46,7 +46,6 @@
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux logo" />
   <img src="https://skillicons.dev/icons?i=ubuntu" height="40" alt="Ubuntu logo" />
   <img src="https://skillicons.dev/icons?i=windows" height="40" alt="Windows logo" />
-    <img src="https://skillicons.dev/icons?i=windows" height="40" alt="Windows logo" />
 </div>
 
 
