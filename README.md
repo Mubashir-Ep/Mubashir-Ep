@@ -40,7 +40,7 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code logo" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git logo" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub logo" />
-  <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="GitLab logo" />
+
 
   <!-- Operating Systems -->
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux logo" />
