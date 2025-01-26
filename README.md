@@ -73,10 +73,7 @@
 
 
 <!-- FOOTER -->
-<div align="left" width="100">
-<img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=100&section=footer&fontSize=30&type=waving&fontColor=fefefe"
- alt="footer" />
- </div>
+
 
 
 ------
