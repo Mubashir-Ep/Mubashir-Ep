@@ -1,7 +1,4 @@
-<div>
-  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&text=Muhammed%20Mubashir%20Ep&fontSize=40&type=waving&fontColor=fefefe&animation=fadeIn&fontStyle=Roboto"  
-  alt="header"/>
-</div>
+
 
 
 
