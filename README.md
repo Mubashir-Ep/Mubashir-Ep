@@ -77,7 +77,6 @@
 
 <!-- FOOTER -->
 
-gdhsnshudbhd
 
 ------
 
