@@ -41,8 +41,7 @@
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git logo" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub logo" />
     <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="GitLab logo" />
-    PowerBILogImage = 
-"<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Power_BI_Logo.svg/1200px-Power_BI_Logo.svg.png' height='40' alt='Power BI logo' />"
+ 
 
 
 
