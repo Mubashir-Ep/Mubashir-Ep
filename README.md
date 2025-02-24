@@ -39,7 +39,7 @@
     </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
       alt="mysql" width="40" height="40" /> </a> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-      
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS logo" />   
 
   <!-- Cloud Platforms -->
   <img src="https://skillicons.dev/icons?i=googlecloud" height="40" alt="Google Cloud logo" />
