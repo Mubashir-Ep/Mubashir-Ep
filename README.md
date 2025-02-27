@@ -19,7 +19,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>  
 <br/>
 <div align="center">
-  <!-- Programming Languages -->
+  <!-- Programming Languages -->  
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python logo" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML logo" />
   <img
